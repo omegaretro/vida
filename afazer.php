@@ -5,6 +5,7 @@ include "app/DLL.php";
 <html lang="pt-BR">
  <head> 
     <meta charset="utf-8">
+    <title>A Fazer</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">  
  </head>
 
@@ -36,3 +37,4 @@ include "app/DLL.php";
  
 </body>
 </html
+

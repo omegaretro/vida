@@ -1,6 +1,7 @@
 <html lang="pt-BR">
  <head> 
     <meta charset="utf-8">
+    <title>Cadastro de Usuário</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">  
  </head>
 
@@ -41,5 +42,6 @@ if (isset($Salvar)){
             $local = $local."cadus.php";
             header($local);
 }
+
 
 ?>
